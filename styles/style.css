@@ -24,6 +24,7 @@ p, li {
 table, th, td {
   border: 1px solid rgb(255, 146, 253);
   border-collapse: collapse;
+  width: 100%;
 }
 th, td {
   background-color: #9c9c9cbd;
