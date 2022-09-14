@@ -9,15 +9,24 @@ h1 {
   text-align: center;
 }
 
+h2{
+  font-size: 26px;
+  text-align: center;
+  text-decoration: overline underline;
+}
+
 p, li {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
 }
 
-h2{
-  font-size: 30px;
-  text-align: center;
+table, th, td {
+  border: 1px solid rgb(255, 146, 253);
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #9c9c9cbd;
 }
 
 html {
@@ -38,6 +47,8 @@ h1 {
   color: #565656;
   text-shadow: 3px 3px 1px black;
 }
+
+
 
 img {
   display: block;
